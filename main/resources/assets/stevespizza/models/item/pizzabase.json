@@ -2,7 +2,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "steves_pizza:items/Pizza_Base"
+        "layer0": "stevespizza:items/Pizza_Base"
     },
     "display": {
         "thirdperson": {

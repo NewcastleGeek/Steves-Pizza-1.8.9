@@ -31,7 +31,7 @@ public class ModItems {
 
 	public static void registerRenders(Item item) {
 		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Pizza_Base, 0, 
-				new ModelResourceLocation(References.MOD_ID + ":" + Pizza_Base.getUnlocalizedName().substring(5), "inventory" ));
+				new ModelResourceLocation(References.MOD_ID + ":" + Pizza_Base.getUnlocalizedName().substring(5), "inventory"));
 		
 	}
 	
